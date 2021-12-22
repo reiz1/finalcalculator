@@ -8,4 +8,5 @@ Original file is located at
 """
 
 def add(a,b):
-  print("Sum=",add(a,b))
+  sum=a+b
+  print("Sum={0}".format(sum))

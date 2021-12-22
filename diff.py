@@ -8,4 +8,5 @@ Original file is located at
 """
 
 def sub(a,b):
-  print("Difference=",sub(a,b))
+  diff=a-b
+  print("Diff={0}".format(diff))
